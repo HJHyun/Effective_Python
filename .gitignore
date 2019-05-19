@@ -1,2 +1,5 @@
 # ignore jupyter notebook checkpoints
 .ipynb_checkpoints
+
+# some mac files
+.DS_store
